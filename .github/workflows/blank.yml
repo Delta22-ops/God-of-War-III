@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explorando el Mundo de God of War III: Un viaje Épico de Venganza y Redención</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a la página dedicada a "God of War III". Aquí exploraremos todos los aspectos del juego, desde su narrativa hasta su jugabilidad.</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#historia">Historia</a></li>
+                <li><a href="#personajes">Personajes</a></li>
+                <li><a href="gameplay">Gameplay</a></li>
+                <li><a href="galeria">Galería</a></li>
+                <li><a href="conclusion">Conclusión</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="historia">
+            <h2>Historia</h2>
+            <p>"God of War III" sigue la historia de Kratos, quien busca venganza contra Zeus y otros dioses del Olimpo tras los eventos de los juegos anteriores. La trama se desarrolla en un mundo lleno de mitología griega y batallas épicas. En franquicias anteriores a God of War III, Kratos un guerrero espartano que busca venganza contra Ares, el dios de la guerra, quien lo manipulo para cometer atrocidades incluyendo el asesinato de su propia familia. Kratos busca a las Crónicas del Tiempo para cambiar su destino y, al final, derrotar a Ares, convirtiendose en el nuevo dios de la guerra.
+                La secuela sigue con Kratos mientras lucha contra los dioses del Olimpo. Tras ser traicinado por Zeus, Kratos busca la ayuda de las Moiras, las diosas del destino, para cambiar su futuro y vengarse. En un enfrentamiento final, Kratos es derrotado por Zeus, lo que lo lleva a continuar su busqueda de venganza en el siguiente juego.
+                Y eso nos lleva a los sucesos de God of War III.</p>
+        </section>
+
+        <section id="tabla de caracteristicas del juego">
+            <h2>Tabla de Características del Juego</h2>
+            <table>
+                <tr>
+                <th>Característica:</th>      <th>Descripción:</th>
+                </tr>
+
+                <tr>
+                <th>Género</th> <td>Acción y Aventura.</td>
+                </tr>
+
+                <th>Plataforma</th> <td>PlayStation 3.</td>
+                </tr>
+
+                <th>Desarrollador</th> <td>Santa Monica Studio.</td>
+                </tr>
+
+                <th>Lanzamiento</th> <td>16 de Matzo de 2010.</td>
+                </tr>
+
+                <th>Duracion del juego</th> <td>Aproximadamente 10-12 horas.</td>
+                </tr>
+
+                </tr>
+            </table>
+        </section>
+
+        <section id="personaje">
+            <h2>Personaje</h2>
+            <p>Kratos: El rpotagonista y guerrero espartano.</p>
+            <p>Zeus: El rey de los dioses y principal antagonista.</p>
+            <p>Atenea: La diosa que guía a Kratos.</p>
+            <p>Poseidón: Dios del mar y uno de los enemigos de Kratos.</p>
+            <p>Hades: Dios del inframundo que tambien se enfrenta a Kratos.</p>
+        </section>   
+
+        <section id="gameplay">
+            <h2>Gameplay</h2>
+            <p> "God of Wat III" combina combates dinámicos con acertijos desafiantes. Los jugadores pueden utilizar una variedad de armas y habilidades mágicas para derrotar a sus enemigos y avanzar en la historia</p>
+        </section>
+
+        <section id="galeria">
+            <h2>Galería</h2>
+            <img src="OIP.jpg">
+            <img src="OIP.webp">
+        </section>
+
+        <section id="conclusion">
+            <h2>Conclusión</h2>
+            <p> "God of War III" es un hito en los videojuegos de acción y aventura, ofreciendo una experiencia rica en narrativa y jugabilidad. Es un título imprescindible para los amantes de la mitología y la acción.</p>
+        </section>
+
+    </main>
+    <footer>
+        <p>&copy; Todos los derechos reservados a la Universidad Politécnica Territorial del Oeste de Sucre "Clodosbaldo Russián".</p>
+    </footer>
+</body>
+</html>
